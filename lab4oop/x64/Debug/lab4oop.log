@@ -1,0 +1,59 @@
+﻿  Source.cpp
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(23,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(29,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(29,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,95): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,95): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,95): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,95): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,89): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,89): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,89): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,89): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(43,89): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(49,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(49,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,45): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,45): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,45): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,45): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,40): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,40): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,40): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(71,40): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,60): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,60): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,60): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,60): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,42): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,42): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,42): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(72,42): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,45): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,45): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,45): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,45): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,40): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,40): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,40): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(73,40): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,60): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,60): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,60): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,60): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,42): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,42): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,42): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop\lab4oop\Source.cpp(74,42): warning C4244:         ]
+  lab4oop.vcxproj -> C:\Users\roma1\source\repos\lab4oop\x64\Debug\lab4oop.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
